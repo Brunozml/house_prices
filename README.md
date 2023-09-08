@@ -8,9 +8,13 @@ Metric: Submissions were evaluated on Mean-Squared-Error (MSE) between the predi
 
 
 The file is currently structured as follows:
+
 Introduction
+
 Part 0: setting up environment
+
 Part 1: Data Exploration
+
 └── 1.1 Data Visualization
 └── 1.2 Data Cleaning
 │   └── 1.2.1 missing data
@@ -18,7 +22,8 @@ Part 1: Data Exploration
 1.3 Feature Engineering
 1.4 Mixing the ingredients
 Part 2 : Modelling
-└── 2.1 splitting the data
+
+└── 2.1 splitting thedata
 └── 2.2 modelling
 └── 2.3 comparing models
 Part 3: A-B testing / CV
